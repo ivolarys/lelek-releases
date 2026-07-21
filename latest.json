@@ -1,7 +1,7 @@
 {
-  "version": "v2026.07.21a",
-  "url": "https://github.com/ivolarys/lelek-releases/releases/download/v2026.07.21a/lelek-s3-2026.07.21a.bin",
-  "sha256": "8a502de8ec7efa6c0c42836cbd0d9c741cdece573dcc4fb6defa6e2533d7fa39",
-  "size": 2592128,
-  "build": "Lelek 2026.07.21a"
+  "version": "v2026.07.22",
+  "url": "https://github.com/ivolarys/lelek-releases/releases/download/v2026.07.22/lelek-s3-2026.07.22.bin",
+  "sha256": "0a0b2eed16f8ad3b7f45ba6c90d17ad9a3a345eb4e482c9f9d0f88e880abb999",
+  "size": 2696704,
+  "build": "Lelek 2026.07.22"
 }
