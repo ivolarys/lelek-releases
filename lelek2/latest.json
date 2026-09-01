@@ -1,0 +1,1 @@
+{"version":"2.0.0-f4","fw":{"url":"lelek2-fw-2.0.0-f4.bin","sha256":"eaf0c698f6a9509bab6ffa269befe5c2bc640458987d66a862c6d0b569815125","size":1975552},"web":{"url":"lelek2-web-2.0.0-f4.tar","sha256":"028a6fb98daa671c99cc0a590809296a05fbc8c7b55295e82895d567bced4d27","size":327680},"notes":"Setup wizard, OTA v2, import z v1, deep sleep opt-in"}
