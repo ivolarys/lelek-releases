@@ -1,6 +1,6 @@
 {
   "name": "Lelek",
-  "version": "2.0.0-f4b10",
+  "version": "2.0.0-f4b11",
   "new_install_prompt_erase": true,
   "builds": [
     {
@@ -19,7 +19,7 @@
           "offset": 57344
         },
         {
-          "path": "lelek2-fw-2.0.0-f4b10.bin",
+          "path": "lelek2-fw-2.0.0-f4b11.bin",
           "offset": 65536
         }
       ]
