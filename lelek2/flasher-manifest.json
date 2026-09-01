@@ -1,0 +1,16 @@
+{
+  "name": "Lelek 2",
+  "version": "2.0.0-f4",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32-S3",
+      "parts": [
+        { "path": "lelek2-bootloader-2.0.0-f4.bin", "offset": 0 },
+        { "path": "lelek2-partitions-2.0.0-f4.bin", "offset": 32768 },
+        { "path": "boot_app0-2.0.0-f4.bin", "offset": 57344 },
+        { "path": "lelek2-fw-2.0.0-f4.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
